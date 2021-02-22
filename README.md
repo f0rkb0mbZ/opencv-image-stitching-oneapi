@@ -64,4 +64,4 @@ $ qsub -l nodes=1:gpu:ppn=2 -d . run.sh # GPU job
 
 Output image is saved as `result.jpg`.
 
-![](C:\Users\Snehangshu\Desktop\devcloud\combined.png)
+![](combined.png)
